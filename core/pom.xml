@@ -22,7 +22,7 @@
     <groupId>org.mybatis</groupId>
     <artifactId>mybatis-parent</artifactId>
     <version>31-SNAPSHOT</version>
-    <relativePath />
+    <relativePath/>
   </parent>
 
   <groupId>org.mybatis.generator</groupId>
@@ -259,7 +259,7 @@
       <dependency>
         <groupId>org.mybatis</groupId>
         <artifactId>mybatis</artifactId>
-        <version>3.4.6</version>
+        <version>3.5.7</version>
       </dependency>
       <dependency>
         <groupId>com.github.javaparser</groupId>
@@ -370,7 +370,7 @@
                         </goals>
                       </pluginExecutionFilter>
                       <action>
-                        <ignore />
+                        <ignore/>
                       </action>
                     </pluginExecution>
                     <pluginExecution>
@@ -384,7 +384,7 @@
                         </goals>
                       </pluginExecutionFilter>
                       <action>
-                        <ignore></ignore>
+                        <ignore/>
                       </action>
                     </pluginExecution>
                     <pluginExecution>
@@ -397,7 +397,7 @@
                         </goals>
                       </pluginExecutionFilter>
                       <action>
-                        <ignore></ignore>
+                        <ignore/>
                       </action>
                     </pluginExecution>
                   </pluginExecutions>
